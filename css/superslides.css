@@ -69,9 +69,8 @@
     background: #222;
 }
 
-@media only screen and (max-width: 600px) {
-        #slides img {
+@media (max-width: 800px) {
+    #slides img {
         height: 10px;
-        width: auto;
     }
 }
